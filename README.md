@@ -1,2 +1,2 @@
 # hello-world
-My first own repository
+I would like to start getting into devops and learning more about software development. 
